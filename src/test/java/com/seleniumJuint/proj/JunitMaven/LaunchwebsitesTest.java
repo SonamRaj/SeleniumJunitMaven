@@ -15,7 +15,7 @@ public class LaunchwebsitesTest {
 
 	@Before
 	public void setUp() throws Exception {
-		System.setProperty("webdriver.chrome.driver", "D:\\selenium\\May2017\\Webdrivers\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "src/test/resources/chromedriver.exe");
 		this.driver = new ChromeDriver();
 	}
 	
