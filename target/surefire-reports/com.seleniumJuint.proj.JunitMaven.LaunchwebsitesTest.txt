@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.seleniumJuint.proj.JunitMaven.LaunchwebsitesTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.315 sec - in com.seleniumJuint.proj.JunitMaven.LaunchwebsitesTest
